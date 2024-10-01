@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -239,3 +240,6 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+=======
+# Nxt_Trendz
+>>>>>>> 0e5e3618ad0640db9fde17a81d35f7ba0e565bfa
